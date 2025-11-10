@@ -1,0 +1,50 @@
+# Peter Thiel Interviews Transcripts
+
+A curated, open-source collection of full transcripts from Peter Thiel's interviews, podcasts, talks, and discussions. This repository aims to preserve and make accessible his thought-provoking ideas on innovation, venture capital, competition, and the future of technology.
+
+Peter Thiel, co-founder of PayPal and Palantir, and author of *Zero to One*, has shared profound perspectives across platforms like *The Joe Rogan Experience*, *Conversations with Tyler*, and various tech conferences. This repo centralizes high-quality transcripts for easy reference, study, and analysis.
+
+## 📁 Repository Structure
+```
+peter-thiel-interviews-transcripts/
+├── transcripts/                  # Main folder for all transcripts
+│   ├── 2023/                     # Organized by year (YYYY)
+│   │   ├── platform_channel1-YYYY-MM-DD.md     # Individual transcript files (Markdown format)
+│   │   └── platform_channel2-YYYY-MM-DD.md
+│   ├── 2022/
+│   │   └── ...
+│   └── unorganized/              # For transcripts without clear dates
+├── LICENSE                       # MIT License
+└── README.md                     # This file
+```
+
+## 🚀 Getting Started
+1. **Clone the repo**:
+   ```
+   git clone https://github.com/ne0heretic/peter-thiel-interviews-transcripts.git
+   cd peter-thiel-interviews-transcripts
+   ```
+2. **Browse transcripts**: Navigate to `/transcripts/` and search by year or filename.
+3. **Search locally**: Use tools like `grep` or VS Code's search to find quotes (e.g., `grep -r "zero to one" transcripts/`).
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+- Original content creators (podcasters, YouTubers, etc.) for the interviews.
+- Contributors who transcribe and maintain this repo.
+- Built with ❤️ for the Thiel enthusiasts community.
+
+## 🔗 Related Resources
+- [Peter Thiel's Website](https://peterthiel.com/)
+- [Zero to One Book](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
+- [Founders Fund](https://foundersfund.com/)
+
+## Support
+
+- Issues: [GitHub Issues](https://github.com/ne0heretic/peter-thiel-interviews-transcripts/issues)
+- Docs: Inline code comments.
+- Twitter: [Thiago Campos Viana (@ne0heretic)](https://twitter.com/ne0heretic) for updates.
+
+
+If you find this useful, star the repo or share it! Questions? Open an issue.
